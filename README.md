@@ -11,9 +11,9 @@ Most of my (unfinished) projects that I have decided to release due to platform 
 [teleportation.vrtx](https://github.com/cad3264/playvortexio/blob/main/teleportation.vrtx) - Seen [here](https://discord.com/channels/1496551960294199386/1550676936454316083) in the Vortex discord server. Should be fine to use in production, however teleportation may be buggy, and it does not transfer momentum.
 
 ## Projects that aren't in here:
-[LargeImage.vrtx](https://github.com/cad3264/LargeImage/releases/download/Release-v1.1/Example.vrtx) - Load up to 128x128 images in Vortex
+[LargeImage.vrtx](https://github.com/cad3264/LargeImage/releases/download/Release-v1.1/Example.vrtx) - Seen [here](https://discord.com/channels/1496551960294199386/1551141608190119956) in the Vortex discord server. Allows you to load up to 128x128 images.
 
-[cam.vrtx](https://github.com/cad3264/CameraTools/releases/download/v1.1/cam.vrtx) -- Modify the Camera's CFrame
+[cam.vrtx](https://github.com/cad3264/CameraTools/releases/download/v1.1/cam.vrtx) -- Seen [here](https://discord.com/channels/1496551960294199386/1551514931764142152) in the Vortex discord server. Allows you to modify the camera's CFrame.
 
 # Q&A
 ### Q: Why?
