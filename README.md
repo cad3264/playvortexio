@@ -1,6 +1,10 @@
 # playvortexio
 Most of my (unfinished) projects that I have decided to release due to platform changes
 
+## Projects that aren't in here:
+[LargeImage.vrtx](https://github.com/cad3264/LargeImage/releases/download/Release-v1.1/Example.vrtx)
+[cam.vrtx](https://github.com/cad3264/CameraTools/releases/download/v1.1/cam.vrtx)
+
 # Q&A
 ### Q: Why?
 A: As much as I love Vortex, they have unfortunately done some pretty bad changes.
