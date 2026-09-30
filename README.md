@@ -40,7 +40,7 @@ A: Yes, as long as you follow the [license](https://github.com/cad3264/playvorte
 
 ### Q: Why don't certain things work in some of the .vrtx files? Why aren't all of them polished?
 A: These are unfinished projects, you should not expect polish, nor should you expect them to work perfectly.
-I do not plan on updating any of these projects for the time being, however feel free to fork this repository and fix them up if you are knowledgable
+I do not plan on updating any of these projects for the time being, however feel free to fork this repository and fix them up.
 
 ### Q: Where's ____.vrtx?
 A: I most likely didn't feel the need to post the .vrtx file relating to that project, however if you need something seen in one of my projects, feel free to ask me on Discord! (@cad4)
