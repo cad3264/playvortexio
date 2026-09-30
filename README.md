@@ -1,10 +1,19 @@
 # playvortexio
 Most of my (unfinished) projects that I have decided to release due to platform changes
 
-## Projects that aren't in here:
-[LargeImage.vrtx](https://github.com/cad3264/LargeImage/releases/download/Release-v1.1/Example.vrtx)
+## Project index:
+[falltest.vrtx](https://github.com/cad3264/playvortexio/blob/main/falltest.vrtx) - Seen [here](https://discord.com/channels/1496551960294199386/1499095736891998391/1552197067395567626) in the Vortex discord server
 
-[cam.vrtx](https://github.com/cad3264/CameraTools/releases/download/v1.1/cam.vrtx)
+[maze.vrtx](https://github.com/cad3264/playvortexio/blob/main/maze.vrtx) - Seen [here](https://discord.com/channels/1496551960294199386/1550326434332016730) in the Vortex discord server. **Very** unfinished.
+
+[mesh.vrtx](https://github.com/cad3264/playvortexio/blob/main/mesh.vrtx) - Seen [here](https://discord.com/channels/1496551960294199386/1552244051326144542) in the Vortex discord server. Not complete.
+
+[teleportation.vrtx](https://github.com/cad3264/playvortexio/blob/main/teleportation.vrtx) - Seen [here](https://discord.com/channels/1496551960294199386/1550676936454316083) in the Vortex discord server. Should be fine to use in production, however teleportation may be buggy, and it does not transfer momentum.
+
+## Projects that aren't in here:
+[LargeImage.vrtx](https://github.com/cad3264/LargeImage/releases/download/Release-v1.1/Example.vrtx) - Load up to 128x128 images in Vortex
+
+[cam.vrtx](https://github.com/cad3264/CameraTools/releases/download/v1.1/cam.vrtx) -- Modify the Camera's CFrame
 
 # Q&A
 ### Q: Why?
@@ -21,7 +30,7 @@ TL;DR: They poorly executed their most recent update and made me loose interest.
 A: I may come back once in a while (if the platform is still alive), however don't count on it.
 
 ### Q: Am I free to use any of these projects?
-A: Yes, as long as you follow the GNU General Public License v2.0.
+A: Yes, as long as you follow the [license](https://github.com/cad3264/playvortexio/blob/main/LICENSE).
 
 ### Q: Why don't certain things work in some of the .vrtx files? Why aren't all of them polished?
 A: These are unfinished projects, you should not expect polish, nor should you expect them to work perfectly.
