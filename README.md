@@ -22,13 +22,13 @@ A: As much as I love Vortex, they have unfortunately done some pretty bad change
 I've always loved Vortex, mainly since it was the first time I've been able to play something similar to a platform like Roblox, and the first time I've been able to create *for* a platform similar to Roblox.
 However the recent update regarding the UI overhaul and Marketplace has truly made me lose interest. I understand Vortex requires money to work as a platform, however I feel like they poorly executed it.
 
-They could've made the current cosmetics free, and add more cosmetics at a later time.
+They could've made the current cosmetics free, so they could add more paid cosmetics at a later time.
 
 They could've allowed users to choose to pay for simple bonuses (which many platforms, including catbox.moe and NameMC have done)
 
-They could've let users keep whatever items they have equipped and make the rest pretty cheap.
+They could've let users keep whatever items they have equipped and make the rest cheap so they could (also) add more paid cosmetics at a later time.
 
-But no, they overpriced most things and made certain (previously free, mind you) items limiteds. They didn't even waste any time making limited time items.
+But no, they overpriced most things and made certain (previously free, mind you) items limiteds. What baffles me is they didn't even waste *any* time making limiteds.
 
 **TL;DR**: They poorly executed their most recent update and made me loose interest.
 
