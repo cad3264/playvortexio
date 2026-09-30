@@ -8,7 +8,7 @@ Most of my (unfinished) projects that I have decided to release due to platform 
 
 [mesh.vrtx](https://github.com/cad3264/playvortexio/blob/main/mesh.vrtx) - Seen [here](https://discord.com/channels/1496551960294199386/1552244051326144542) in the Vortex discord server. Not complete.
 
-[teleportation.vrtx](https://github.com/cad3264/playvortexio/blob/main/teleportation.vrtx) - Seen [here](https://discord.com/channels/1496551960294199386/1550676936454316083) in the Vortex discord server. Should be fine to use in production, however teleportation may be buggy, and it does not transfer momentum.
+[teleportation.vrtx](https://github.com/cad3264/playvortexio/blob/main/teleportation.vrtx) - Seen [here](https://discord.com/channels/1496551960294199386/1550676936454316083) in the Vortex discord server. Should be fine to use in production, however it is **completely** client sided, and teleportation may be buggy, it does not transfer momentum either.
 
 ## Projects that aren't in here:
 [LargeImage.vrtx](https://github.com/cad3264/LargeImage/releases/download/Release-v1.1/Example.vrtx) - Seen [here](https://discord.com/channels/1496551960294199386/1551141608190119956) in the Vortex discord server. Allows you to load up to 128x128 images.
