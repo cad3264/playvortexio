@@ -34,7 +34,7 @@ But no. They overpriced most things and made certain (previously free, mind you)
 
 What baffles me the most about that is the fact that they didn't even waste ***any*** time making limiteds.
 
-Yet, that wasn't what lead me to making this repository public. It was the most recent studio update. The most recent update as of writing this (v0.6.0) broke the Character Parts module, a module I enjoyed using heavily since it would allow me to mess around with the player. It was the backbone of multiple of my projects and is incredibly helpful outside of modifying the player since it allowed me to get the CFrame of a character by grabbing the humanoid root part.
+Yet, that wasn't what lead me to making this repository public. It was the most recent studio update. That being v0.6.0, This update includes many new features, however it broke the Character Parts module, a module I enjoyed using heavily since it would allow me to mess around with the player. It was the backbone of multiple of my projects and is incredibly helpful outside of modifying the player since it allowed me to get the CFrame of a character by grabbing the humanoid root part.
 
 That is now broken.
 
