@@ -1,5 +1,5 @@
 # playvortexio
-Most of my (unfinished) projects that I have decided to release due to platform changes
+Most of my (unfinished) projects that I have decided to release due to platform and studio changes
 
 ## Project index:
 [falltest.vrtx](https://github.com/cad3264/playvortexio/blob/main/falltest.vrtx) - Seen [here](https://discord.com/channels/1496551960294199386/1499095736891998391/1552197067395567626) in the Vortex discord server
@@ -17,20 +17,32 @@ Most of my (unfinished) projects that I have decided to release due to platform 
 
 # Q&A
 ### Q: Why?
-A: As much as I love Vortex, they have unfortunately done some pretty bad changes.
+A: As much as I love Vortex, they have unfortunately steered way south with the most recent updates.
 
 I've always loved Vortex, mainly since it was the first time I've been able to play something similar to a platform like Roblox, and the first time I've been able to create *for* a platform similar to Roblox.
-However the recent update regarding the UI overhaul and Marketplace has truly made me lose interest. I understand Vortex requires money to work as a platform, however I feel like they poorly executed it.
+However the recent updates regarding the catalogue as well as the studio have made the platform nearly unrecognizable to me as a studio creator.
 
-They could've made the current cosmetics free, so they could add more paid cosmetics at a later time.
+Regarding the catalogue, they could've picked one of these options:
 
-They could've allowed users to choose to pay for simple bonuses (which many platforms, including catbox.moe and NameMC have done)
+1. Make the current cosmetics free, so they could add more paid cosmetics at a later time.
 
-They could've let users keep whatever items they have equipped and make the rest cheap so they could (also) add more paid cosmetics at a later time.
+2. Allow users to choose to pay for simple bonuses (which many platforms, including [catbox.moe](https://catbox.moe/) and [NameMC](https://namemc.com/) have done) and keep the catalogue as is.
 
-But no, they overpriced most things and made certain (previously free, mind you) items limiteds. What baffles me is they didn't even waste *any* time making limiteds.
+3. Let users keep whatever items they have equipped while making the rest cheap so they can (also) add more paid cosmetics at a later time.
 
-**TL;DR**: They poorly executed their most recent update and made me loose interest.
+But no. They overpriced most things and made certain (previously free, mind you) items limiteds. 
+
+What baffles me the most about that is the fact that they didn't even waste ***any*** time making limiteds.
+
+Yet, that wasn't what lead me to making this repository public. It was the most recent studio update. The most recent update as of writing this (v0.6.0) broke the Character Parts module, a module I enjoyed using heavily since it would allow me to mess around with the player. It was the backbone of multiple of my projects and is incredibly helpful outside of modifying the player since it allowed me to get the CFrame of a character by grabbing the humanoid root part.
+
+That is now broken.
+
+Many of my project are now broken.
+
+
+
+> **TL;DR**: They poorly executed a update and broke almost all of my projects.
 
 ### Q: Will you continue to play?
 A: I may come back once in a while (if the platform is still alive), however don't count on it.
